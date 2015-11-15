@@ -17,7 +17,7 @@
  ******************************************************************************/
 
 #import "OLRabbitMQError.h"
-#include <amqp_tcp_socket.h>
+#include "amqp_tcp_socket.h"
 
 @implementation OLRabbitMQError
 
